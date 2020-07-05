@@ -3,7 +3,7 @@ CREATE TABLE "CRYPTOS" (
 	"symbol"	TEXT UNIQUE,
 	"name"	TEXT,
 	PRIMARY KEY("id")
-)
+);
 
 CREATE TABLE "MOVEMENTS" (
 	"id"	INTEGER,
