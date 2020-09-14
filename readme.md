@@ -40,4 +40,4 @@ flask run
 ```
 
 
-Por favor, recuerde que necesita conexión a Internet.
+Por favor, recuerde que necesita conexión a Internet..
